@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Encriptador Base 64/1.0.0": {
+        "runtime": {
+          "Encriptador Base 64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encriptador Base 64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

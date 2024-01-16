@@ -1,0 +1,18 @@
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\bin\Debug\net8.0-windows\Encriptador Base 64.exe
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\bin\Debug\net8.0-windows\Encriptador Base 64.deps.json
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\bin\Debug\net8.0-windows\Encriptador Base 64.runtimeconfig.json
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\bin\Debug\net8.0-windows\Encriptador Base 64.dll
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\bin\Debug\net8.0-windows\Encriptador Base 64.pdb
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador_Base_64.Form1.resources
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador_Base_64.Properties.Resources.resources
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.csproj.GenerateResource.cache
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.AssemblyInfoInputs.cache
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.AssemblyInfo.cs
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.csproj.CoreCompileInputs.cache
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.dll
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\refint\Encriptador Base 64.dll
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.pdb
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador Base 64.genruntimeconfig.cache
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\ref\Encriptador Base 64.dll
+D:\Users\danie\source\repos\Encriptador Base 64\Encriptador Base 64\obj\Debug\net8.0-windows\Encriptador_Base_64.Form2.resources
